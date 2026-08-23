@@ -118,7 +118,7 @@ const ANNOTATIONS: AnnotationItem[] = [
     position: [-2500, 930, 950],
     num: '08 / CONTACT',
     title: "LET'S BUILD TOGETHER",
-    body: 'Open for full-stack engineering roles, GenAI pipeline consultations, and enterprise SaaS builds.',
+    body: 'Open for full-stack engineering roles, GenAI pipeline consultations: niravthapa69@gmail.com.',
     titleSize: 24,
     bodySize: 11,
     numSize: 10,
