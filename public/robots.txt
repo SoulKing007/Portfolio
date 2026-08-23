@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Allow AI Search Crawlers (Perplexity, ChatGPT, Claude, Gemini)
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://portfolio-soulking007.vercel.app/sitemap.xml
